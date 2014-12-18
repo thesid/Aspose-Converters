@@ -1,0 +1,17 @@
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.POC.exe.config
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.POC.exe
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.POC.pdb
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Diagram.dll
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Pdf.dll
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Slides.dll
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Words.dll
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Diagram.xml
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Slides.xml
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Words.xml
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\obj\Debug\Aspose.POC.exe
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\obj\Debug\Aspose.POC.pdb
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Cells.dll
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Cells.xml
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\obj\Debug\Aspose.POC.csprojResolveAssemblyReference.cache
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Email.dll
+C:\Sid\Code\Samples\Aspose.POC\Aspose.POC\bin\Debug\Aspose.Email.xml
